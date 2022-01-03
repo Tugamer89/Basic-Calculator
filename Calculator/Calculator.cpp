@@ -170,6 +170,7 @@ void help()
 
     cout << "Help sheet"
         << "\nP : PI"
+        << "\nE : Nepero number"
         << "\n+ : addition"
         << "\n- : subtraction"
         << "\n* : multiplication"
