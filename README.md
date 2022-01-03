@@ -20,6 +20,7 @@ I wanted to code a basic calculator in which to insert a string and it returns a
   - Arctangents
   - Logarithms in bases e, 2 and 10
   - PI
+  - Nepero number
 
 ## **Known bugs:**
  - Negatives numbers at the beginning not working
@@ -29,4 +30,4 @@ I wanted to code a basic calculator in which to insert a string and it returns a
   - Code cleanup
   - Splitting the code in more files
   - The ability to use parentheses like a scientific calculator
-  
+  - Chronology
